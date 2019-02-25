@@ -1,0 +1,32 @@
+body {
+  background-image: url("https://previews.123rf.com/images/things/things1011/things101100048/8292318-orange-paint-splashes-background-vector-background-with-place-for-your-text-.jpg");
+}
+h1 		{font-style: bold; 
+		font-size: 100px ;
+		font-family : "Calibri";
+		color:#d92680;
+		background-color: white;
+		text-align: center;
+		}
+table {font-style: bold;
+		font-size: 20px	;
+		font-family : monospace;
+		background-color:white;
+		border-style: ridge;color:	rgb(38, 0, 153);
+		border-width: 10px;
+		text-align: center;
+}
+.intro 	{font-size: 30px ;
+		font-family : "Comic Sans MS";
+		color: white;
+		background-color: rgb(255, 0, 128);
+		text-align: justify;
+}
+.tugas {font-size: 30px ;
+		font-family : "Kristen ITC";
+		color: white;
+		background-color: rgb(255, 102, 179);
+		text-align: justify;
+}
+
+
